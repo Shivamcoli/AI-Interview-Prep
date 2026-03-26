@@ -1,4 +1,4 @@
-# FastAPI backend (replacement for Express)
+# FastAPI backend 
 
 ## Setup
 
