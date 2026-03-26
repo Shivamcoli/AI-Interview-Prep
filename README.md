@@ -3,8 +3,7 @@
 This workspace contains:
 
 - `frontend/`: React (Vite) app
-- `backend/fastapi_backend/`: FastAPI backend (replaces the older Express backend)
-
+- `backend/fastapi_backend/`: FastAPI backend 
 ## Run backend (FastAPI)
 
 ```bash
